@@ -1,0 +1,69 @@
+*.idea/
+
+*.apk
+*.ap_
+
+*.class
+
+bin/
+gen/
+diagrams/
+
+local.properties
+
+# files for the dex VM
+*.dex
+
+# Ignore gradle files
+.gradle/
+build/
+
+# Proguard Pasta gerada pelo Eclipse
+proguard/
+
+.metadata
+tmp/
+*.tmp
+*.bak
+*.swp
+*~.nib
+*~
+.settings/
+.loadpath
+
+# Locally stored "Eclipse launch configurations"
+*.launch
+
+# CDT-specific
+.cproject
+
+# PDT-specific
+.buildpath
+
+Robusta_Report/
+diagramas/
+
+
+# Android Studio
+../.idea/
+../out/
+.idea
+#.idea/workspace.xml - remove # and delete .idea if it better suit your needs.
+.gradle
+build/
+/*/out
+../.idea/
+a.out
+../out/
+*.iml
+.idea/.name
+.idea/compiler.xml
+.idea/copyright/profiles_settings.xml
+.idea/encodings.xml
+.idea/libraries/libs.xml
+.idea/misc.xml
+.idea/modules.xml
+.idea/scopes/scope_settings.xml
+.idea/vcs.xml
+.idea/workspace.xml
+Livros_Daisy3/
